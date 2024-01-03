@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amaanxec
-- 👀 I’m interested in AR/VR/Game Development/Porgramming C#,Javascript
-- 🌱 I’m currently learning Javascript & Webdevelopment
+- 👀 I’m interested in AR/VR/Game Development/Programming C#,Javascript
+- 🌱 I’m currently learning Javascript & Web development
 - 💞️ I’m looking to collaborate on Augmented reality projects
 - 📫 How to reach me amaanzaik71@gmail.com
 
